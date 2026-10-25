@@ -1,0 +1,25 @@
+nombre='Julia'
+apellido='Córdova'
+pais='Perú'
+ciudad='Lima'
+edad=26
+casada=False
+skills=['HTML','JAVA','Python']
+informacion_personal={'nombre':'Julia','apellido':'Córdova','pais':'Perú','ciudad':'Lima'}
+print('nombre:',nombre)
+print('nombre length:',len(nombre))
+print('apellido:',apellido)
+print('apellido length:',len(apellido))
+print('pais:',pais)
+print('ciudad:',ciudad)
+print('edad:',edad)
+print('casada:',casada)
+print('skills:',skills)
+print('informacion_personal:',informacion_personal)
+nombre,apellido,pais,ciudad,edad,casada='Julia','Córdova','Perú','Lima',26,False
+print('nombre:',nombre)
+print('apellido:',apellido)
+print('pais:',pais)
+print('ciudad:',ciudad)
+print('edad:',edad)
+print('casada:',casada)
